@@ -1,0 +1,21 @@
+
+# Object files
+*.o
+*.obj
+*.elf
+
+# Static library
+*.a
+*.lib
+
+# Shared library
+*.dll
+*.so
+
+# Exectable
+*.out
+*.exe
+
+# Misc
+build/
+project.*

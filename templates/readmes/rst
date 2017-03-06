@@ -1,0 +1,14 @@
+###############
+{project_name}
+###############
+____
+
+
+ - **Documentation** : {documentation_url}
+ - **Repository**: {repository_url}
+ - **License**: {license}
+
+
+____
+
+Copyright © {year} {owner} ({email}). All right reserved.
